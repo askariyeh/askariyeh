@@ -3,7 +3,7 @@ Mohammad Hashem Askariyeh
 
 mh.askariyeh@gmail.com | College Station, TX 77840 | Cell: (857) 928-7971
 
-SUMMARY
+***SUMMARY
 
 •	Data scientist with 7 years of experience in statistical modeling, data analysis, and machine learning
 •	Creative problem solver: Developed mathematical models to predict and analyze air quality datasets 
