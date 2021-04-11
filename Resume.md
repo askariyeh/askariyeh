@@ -3,19 +3,19 @@ Mohammad Hashem Askariyeh
 
 mh.askariyeh@gmail.com | College Station, TX 77840 | Cell: (857) 928-7971
 
-***SUMMARY
+*** SUMMARY
 
 •	Data scientist with 7 years of experience in statistical modeling, data analysis, and machine learning
 •	Creative problem solver: Developed mathematical models to predict and analyze air quality datasets 
 •	Excellent communication and teamwork skills: Presented projects to clients and scholars at conferences, and published numerous scientific papers, served as a key analyst and coordinator in numerous interdisciplinary projects
 
-***TECHNICAL SKILLS
+*** TECHNICAL SKILLS
 
 •	Programming: Python, SQL, MATLAB, Power BI, R, SAS, Power BI
 •	Machine Learning and Predictive Modeling: NumPy, pandas, scikit-learn, SciPy
 •	Data Analysis and Visualization: Matplotlib, Seaborn, ggplot2, Arc GIS, Microsoft Excel Pivot Charts, Minitab, JMP
 
-***WORK EXPERIENCE
+*** WORK EXPERIENCE
 
 AKRF, Inc. (New York, NY)	September 2019- March 2020
 
@@ -45,23 +45,23 @@ Research Assistant
 •	Collected transportation network data and analyzed the effect of fleet characteristics on air pollution 
 •	Conducted an estimate of fuel consumption and emission reduction due to new powertrain technologies
 
-***LEADERSHIP
+*** LEADERSHIP
 
 •	Trained and supervised interns at Center for Advancing Research in Transportation Emissions, Energy, and Health (CARTEEH)	Summer 2019
 •	Served as the instructor of “Application of Computer Programming in Engineering” (a 60-student class) at Texas A&M University	Spring 2018
 
-***IMMIGRATION STATUS
+*** IMMIGRATION STATUS
 
 US Permanent Resident (Green Card Holder)
 
-***EDUCATION
+*** EDUCATION
 
 Ph.D. in Civil Engineering, Texas A&M University, College Station, TX	(2020)
 M.Sc. in Engineering Management, Western New England University, Springfield, MA (2014)
 M.Sc. in Civil and Environmental Engineering, Sharif University of Technology, Tehran, Iran (2011)
 B.Sc. in Civil Engineering, Yazd University, Yazd, Iran (2008)
 
-***CERTIFICATION
+*** CERTIFICATION
 
 Applied Statistics, Department of Statistics, Texas A&M University (2017)
 Business Management, Mays Business School, Texas A&M University (2016)
