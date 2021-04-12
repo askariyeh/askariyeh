@@ -4,8 +4,8 @@ Created on Fri Feb 11 13:05:11 2021
 
 @author: mhaskariyeh
 """
-in_path = '/Users/mhaskariyeh/Google Drive (1)/GaTech/CS 7641/Assignment/Supervised Learning/Project/'
-out_path = '/Users/mhaskariyeh/Google Drive (1)/GaTech/CS 7641/Assignment/Supervised Learning/Project/Outputs_CreditFraud/'
+in_path = '...'
+out_path = '...'
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
