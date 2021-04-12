@@ -47,8 +47,8 @@ mh.askariyeh@gmail.com | College Station, TX 77840 | Cell: (857) 928-7971
 
 ## LEADERSHIP
 
-*	Trained and supervised interns at Center for Advancing Research in Transportation Emissions, Energy, and Health (CARTEEH)	Summer 2019
-*	Served as the instructor of “Application of Computer Programming in Engineering” (a 60-student class) at Texas A&M University	Spring 2018
+*	Trained and supervised interns at Center for Advancing Research in Transportation Emissions, Energy, and Health (Summer 2019)
+*	Served as the instructor of “Application of Computer Programming in Engineering” (a 60-student class) at Texas A&M University (Spring 2018)
 
 ## IMMIGRATION STATUS
 
