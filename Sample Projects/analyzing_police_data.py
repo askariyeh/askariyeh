@@ -8,9 +8,9 @@ Created on Fri Apr 23 22:05:55 2021
 
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+import matplotlib.pyplot as plt
 
-path_in = '/Users/mhaskariyeh/Google Drive (1)/python_projects/PoliceData/'
+path_in = 'path'
 in_file_name = 'traffic_inp.csv'
 
 df = pd.read_csv(path_in + in_file_name)
@@ -145,9 +145,6 @@ print(df.groupby(df.index.hour).is_arrested.mean())
 
 # Save the hourly arrest rate
 hourly_arrest_rate = df.groupby(df.index.hour).is_arrested.mean()
-
- # Import matplotlib.pyplot as plt
-import matplotlib.pyplot as plt
 
 # Create a line plot of 'hourly_arrest_rate'
 plt.plot(hourly_arrest_rate)
