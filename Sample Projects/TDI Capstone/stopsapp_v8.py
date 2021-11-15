@@ -4,6 +4,8 @@
 @author: m-askariyeh
 
 """
+# To run this file download the four sample CSV sample input, update the path (line 82).
+# The original dataset exceeded 6 GB and I was able to share publically here.
 #####################################################################################
 # This file contains what i did for TDI capstone project.
 # It reads the data and runs a web application which gives the option to filter the data, and visualize it.
